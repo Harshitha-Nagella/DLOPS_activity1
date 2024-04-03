@@ -13,3 +13,6 @@ for value in random_values:
     print(f"Leaky ReLU of {value}: {leaky_relu(value)}")
     print(f"Tanh of {value}: {np.tanh(value)}")
 
+
+
+
